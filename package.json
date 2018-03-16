@@ -1,0 +1,22 @@
+{
+  "name": "tweetroller",
+  "version": "1.0.0",
+  "description": "🐦 Deletes tweets after 10 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4eleven7/tweetroller.git"
+  },
+  "author": "Dan Love <dan@daniellove.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4eleven7/tweetroller/issues"
+  },
+  "homepage": "https://github.com/4eleven7/tweetroller#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
